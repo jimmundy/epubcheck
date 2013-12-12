@@ -1,0 +1,10 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+	<title> Cover </title>
+</head>
+<body epub:type="cover"> 
+      <img class ="cover-img" width="100%" src="Images/Cover.jpg" alt="Cover Image"/>
+</body>
+</html>
+
